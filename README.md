@@ -36,6 +36,8 @@ What I care about most are the details you can feel: an animation that stays smo
 <td width="50%" valign="top">
 
 #### ✨ [Prompto](https://app-prompto.com)
+<a href="https://app-prompto.com"><img src="img/prompto.jpg" alt="Prompto" /></a>
+
 Agenda y recordatorios para profesionales y negocios: vencimientos tributarios, timbrados, turnos de firma electrónica y cobros a crédito. Avisa **por WhatsApp** a vos y a tu cliente, desde tu propio número, antes de que sea tarde. Tus clientes eligen horario con un link privado.
 
 *Reminders & scheduling SaaS for accountants and small businesses: tax deadlines, e-signature appointments and installment collections, with automatic WhatsApp notifications to both the business and its clients.*
