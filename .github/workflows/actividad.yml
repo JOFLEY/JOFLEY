@@ -1,0 +1,27 @@
+name: Actividad reciente
+
+# Reescribe el bloque "En qué estoy trabajando" del README con las últimas versiones de Nido
+# y la actividad pública reciente. Solo hace commit si algo cambió.
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/actividad.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: |
+          if git diff --quiet README.md; then echo "Sin cambios"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Actividad reciente"
+          git push

@@ -57,24 +57,12 @@ Un escritorio nuevo para Windows: carpetas que se expanden en el lugar, caja de 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 #### 💸 Gastos
-App personal de gastos, ingresos y balance mensual, para el celular y la web.
-
-*Personal finance app: expenses, income and monthly balance, on mobile and web.*
+App personal de gastos, ingresos y balance mensual, para el celular y la web. · *Personal finance app: expenses, income and monthly balance, on mobile and web.*
 
 `Flutter` `Dart` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏆 Claude Code Logro
-Avisos tipo "logro desbloqueado" en pixel art para Claude Code, con estadísticas, metas, temas y avisos al celular.
-
-*Pixel-art "achievement unlocked" popups for Claude Code, with stats, goals, themes and phone notifications.*
-
-`PowerShell` `Python` `GTK`
 
 </td>
 </tr>
@@ -84,7 +72,7 @@ Avisos tipo "logro desbloqueado" en pixel art para Claude Code, con estadística
 
 ---
 
-### 🛠️ Con qué trabajo / Tech stack
+### 🧰 Con qué trabajo / Tech stack
 
 <p>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
@@ -108,7 +96,25 @@ Avisos tipo "logro desbloqueado" en pixel art para Claude Code, con estadística
 
 ---
 
+### 🛠️ En qué estoy trabajando / What I'm up to
+
+<!--ACTIVIDAD:inicio-->
+- 🪺 Nido **v0.3.0** publicado · [15 oct 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.3.0)
+- 🪺 Nido **v0.2.0** publicado · [14 oct 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.2.0)
+- 🪺 Nido **v0.1.2** publicado · [13 oct 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.1.2)
+<!--ACTIVIDAD:fin-->
+
+<sub>Se actualiza solo cada 6 horas. · Updates itself every 6 hours.</sub>
+
+---
+
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JOFLEY/JOFLEY/output/serpiente-oscura.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JOFLEY/JOFLEY/output/serpiente.svg" />
+  <img alt="Serpiente comiéndose el calendario de contribuciones" src="https://raw.githubusercontent.com/JOFLEY/JOFLEY/output/serpiente-oscura.svg" />
+</picture>
 
 📫 **¿Un proyecto en mente? · Got a project in mind?** → [jofleyns@gmail.com](mailto:jofleyns@gmail.com)
 
