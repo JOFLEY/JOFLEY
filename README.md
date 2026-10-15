@@ -47,14 +47,16 @@ Agenda y recordatorios para profesionales y negocios: vencimientos tributarios, 
 </td>
 <td width="50%" valign="top">
 
-#### 🪺 [Nido](https://github.com/JOFLEY/nido-releases)
+#### 🪺 [Nido](https://nido.serfley.com)
+<a href="https://nido.serfley.com"><img src="img/nido-demo.gif" alt="Nido en acción" /></a>
+
 Un escritorio nuevo para Windows: carpetas que se expanden en el lugar, caja de selección con hilos de luz, widgets de Spotify y estado del equipo, y actualizaciones automáticas.
 
 *A desktop replacement for Windows: in-place expandable folders, an animated selection box, Spotify and system-monitor widgets, and silent auto-updates.*
 
 `C#` `.NET 9` `WPF` `Win32` `Velopack`
 
-**[⬇️ Descargar / Download](https://github.com/JOFLEY/nido-releases/releases/latest/download/Nido-win-Setup.exe)**
+**[🌐 nido.serfley.com](https://nido.serfley.com)** · **[⬇️ Descargar / Download](https://github.com/JOFLEY/nido-releases/releases/latest/download/Nido-win-Setup.exe)**
 
 </td>
 </tr>
