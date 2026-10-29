@@ -103,9 +103,9 @@ App personal de gastos, ingresos y balance mensual, para el celular y la web. ·
 ### 🛠️ En qué estoy trabajando / What I'm up to
 
 <!--ACTIVIDAD:inicio-->
+- 🪺 Nido **v0.3.8** publicado · [29 oct 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.3.8)
 - 🪺 Nido **v0.3.7** publicado · [28 oct 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.3.7)
 - 🪺 Nido **v0.3.6** publicado · [28 oct 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.3.6)
-- 🪺 Nido **v0.3.5** publicado · [27 oct 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.3.5)
 - 🔨 Cambios en [nido-releases](https://github.com/JOFLEY/nido-releases) · 19 oct 2026
 <!--ACTIVIDAD:fin-->
 
