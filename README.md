@@ -106,7 +106,6 @@ App personal de gastos, ingresos y balance mensual, para el celular y la web. ·
 - 🪺 Nido **v0.3.23** publicado · [16 nov 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.3.23)
 - 🪺 Nido **v0.3.22** publicado · [13 nov 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.3.22)
 - 🪺 Nido **v0.3.21** publicado · [12 nov 2026](https://github.com/JOFLEY/nido-releases/releases/tag/v0.3.21)
-- 🔨 Cambios en [nido-releases](https://github.com/JOFLEY/nido-releases) · 19 oct 2026
 <!--ACTIVIDAD:fin-->
 
 <sub>Se actualiza solo cada 6 horas. · Updates itself every 6 hours.</sub>
